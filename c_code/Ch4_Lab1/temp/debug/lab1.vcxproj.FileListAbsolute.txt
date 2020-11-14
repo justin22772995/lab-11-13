@@ -1,0 +1,2 @@
+C:\Users\asus\Desktop\c_code\Ch4_Lab1\temp\debug\lab1.exe
+C:\Users\asus\Desktop\c_code\Ch4_Lab1\temp\debug\lab1.pdb
